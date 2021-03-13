@@ -17,7 +17,7 @@ is recommended, Of course you can also install other Linux distributions, ubuntu
 ArchLinux only downloads source code, we are not using it to compile.
 
 you can use [termux-ndk](https://github.com/Lzhiyong/termux-ndk) or termux's clang to compile, 
-please note if you use termux's clang to static compilation, need to pkg install ndk-multilib
+please note if you use termux's clang to static compilation, need to pkg `install ndk-multilib`
 
 ```bash
 # install repo

@@ -62,12 +62,7 @@ include_directories(
 add_subdirectory(lib)
 
 # build tools
-add_subdirectory(aapt)
-add_subdirectory(aapt2)
-add_subdirectory(aidl)
-add_subdirectory(zipalign)
-add_subdirectory(dexdump)
-add_subdirectory(split-select)
+add_subdirectory(build-tools)
 
 # platform tools
 add_subdirectory(platform-tools)
